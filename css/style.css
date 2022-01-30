@@ -1,0 +1,70 @@
+@import "null.css";
+h1,
+h2 {
+	color: crimson;
+}
+h3,
+h4 {
+	color: mediumseagreen;
+}
+.block__text_one {
+	color: darkorchid;
+}
+
+.block__text_two {
+	color: greenyellow;
+}
+
+.watch {
+	color: indigo;
+}
+
+div.block__text_two_one {
+	color: khaki;
+}
+p.report {
+	color: lightcoral;
+}
+
+.block__text_three {
+	color: lightskyblue;
+}
+div.block__text_four {
+	color: magenta;
+}
+.block__text_four.one {
+	color: red;
+}
+.block__text_four.two {
+	color: maroon;
+}
+.block__text_five {
+	color: mediumblue;
+}
+.list {
+	color: navy;
+}
+.list-text ~ p {
+	color: orange;
+}
+.list-text + p {
+	color: olive;
+}
+.list-text-one + p {
+	color: orangered;
+}
+.list-text-two + p {
+	color: powderblue;
+}
+.block__text_six.two {
+	color: rebeccapurple;
+}
+.block__text_six.three {
+	color: red;
+}
+.block__text_six.one {
+	color: rosybrown;
+}
+.block__text_six.four {
+	color: seagreen;
+}
