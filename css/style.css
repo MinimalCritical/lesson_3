@@ -41,21 +41,7 @@ div.block__text_four {
 .block__text_five {
 	color: mediumblue;
 }
-.list {
-	color: navy;
-}
-.list-text ~ p {
-	color: orange;
-}
-.list-text + p {
-	color: olive;
-}
-.list-text-one + p {
-	color: orangered;
-}
-.list-text-two + p {
-	color: powderblue;
-}
+
 .block__text_six.two {
 	color: rebeccapurple;
 }
@@ -67,4 +53,23 @@ div.block__text_four {
 }
 .block__text_six.four {
 	color: seagreen;
+}
+div.list-text {
+	color: olive;
+}
+div.list-text-two {
+	color: orange;
+}
+div.list-text-one {
+	color: orangered;
+}
+
+p.list_first {
+	color: plum;
+}
+p.list_second {
+	color: rebeccapurple;
+}
+p.list_third {
+	color: saddlebrown;
 }
